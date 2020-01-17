@@ -13,4 +13,4 @@ Vue.prototype.$dbsdk = dbSDK
 
 react:
 
-React.Component.prototype.$dbsdk =dsSDK
+React.Component.prototype.$dbsdk =dbSDK
