@@ -1,0 +1,2 @@
+# indexedDB_sdk
+浏览器nosql数据库indexedDB的promise封装
